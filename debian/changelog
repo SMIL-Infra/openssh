@@ -1,3 +1,9 @@
+openssh (1:8.9p1-4) UNRELEASED; urgency=medium
+
+  * Remove obsolete FAQ, removed from openssh.com in 2016.
+
+ -- Colin Watson <cjwatson@debian.org>  Thu, 03 Mar 2022 00:20:19 +0000
+
 openssh (1:8.9p1-3) unstable; urgency=medium
 
   * Allow ppoll_time64 in seccomp filter (closes: #1006445).
