@@ -1,4 +1,4 @@
-openssh (1:9.0p1-1) UNRELEASED; urgency=medium
+openssh (1:9.0p1-1) unstable; urgency=medium
 
   * New upstream release (https://www.openssh.com/releasenotes.html#9.0p1):
     - scp(1): Use the SFTP protocol by default (closes: #144579, #204546,
@@ -41,7 +41,7 @@ openssh (1:9.0p1-1) UNRELEASED; urgency=medium
       the test.
   * Remove obsolete FAQ, removed from openssh.com in 2016.
 
- -- Colin Watson <cjwatson@debian.org>  Thu, 03 Mar 2022 00:20:19 +0000
+ -- Colin Watson <cjwatson@debian.org>  Sat, 09 Apr 2022 14:14:10 +0100
 
 openssh (1:8.9p1-3) unstable; urgency=medium
 

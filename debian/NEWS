@@ -1,4 +1,4 @@
-openssh (1:9.0p1-1) UNRELEASED; urgency=medium
+openssh (1:9.0p1-1) unstable; urgency=medium
 
   OpenSSH 9.0 includes a number of changes that may affect existing
   configurations:
@@ -28,7 +28,7 @@ openssh (1:9.0p1-1) UNRELEASED; urgency=medium
      In case of incompatibility, the scp(1) client may be instructed to use
      the legacy scp/rcp using the -O flag.
 
- -- Colin Watson <cjwatson@debian.org>  Fri, 08 Apr 2022 15:24:22 +0100
+ -- Colin Watson <cjwatson@debian.org>  Sat, 09 Apr 2022 14:14:10 +0100
 
 openssh (1:8.8p1-1) unstable; urgency=medium
 
